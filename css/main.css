@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+label {
+  color: lightblue;
+}
+
+button {
+  color: black;
+  border-style: solid;
+  border-color: lightblue;
+}
